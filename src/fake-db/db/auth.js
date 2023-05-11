@@ -12,7 +12,18 @@ const userList = [{
     email: 'mukwanjegiven@gmail.com',
     avatar: '/assets/images/face-6.jpg',
     age: 25,
-}, ];
+}, 
+{
+    
+    id: 2,
+    role: 'SA',
+    name: 'Mxxxxxx',
+    username: 'gxxxxxxx',
+    email: 'ason@ui-lib.com',
+    avatar: '/assets/images/face-6.jpg',
+    age: 25,
+}
+];
 
 // FOLLOWING CODES ARE MOCK SERVER IMPLEMENTATION
 // YOU NEED TO BUILD YOUR OWN SERVER
